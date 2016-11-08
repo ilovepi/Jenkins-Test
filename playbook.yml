@@ -56,7 +56,7 @@
             - cmake
             - docker
             - build-essential
-            - linux-headers-$(uname -r)
+            - linux-headers-generic
             - libgmp-dev
             - libmpc-dev
             - libmpfr-dev
